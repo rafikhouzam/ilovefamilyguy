@@ -1,0 +1,9 @@
+__pycache__/
+instances/
+.env
+.flaskenv
+venv/
+include/
+lib/
+bin/
+pyvenv.cfg
